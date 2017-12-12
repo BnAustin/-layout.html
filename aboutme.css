@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    }
+
+h1 { color: white;
+     text-align: center;
+     background-color: clear;
+     margin: 0px;
+     margin-bottom: 0px;
+     font-family: avenir ,serif;
+     font-weight:900;
+     font-size: 70px;
+   }
+
+h2  { color: magenta;
+      font-family: avenir ,serif;
+    }
+
+.word {font-weight:1000px;}
+
+h5 {font-weight:lighter;
+    color: grey;
+    margin-top: 0px;
+    margin-bottom: 0px}
+
+
+nav { width: 100%;
+      adding:5px
+      background-color:gold;
+    }
+
+ul li a { color: clear;
+          text-decoration: none;
+        }
+ul li
